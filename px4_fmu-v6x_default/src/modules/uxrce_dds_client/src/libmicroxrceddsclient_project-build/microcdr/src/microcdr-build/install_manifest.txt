@@ -1,0 +1,8 @@
+/home/factslabegmc/PX4-Autopilot/build/px4_fmu-v6x_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/temp_install/microcdr-2.0.0/lib/libmicrocdr.a
+/home/factslabegmc/PX4-Autopilot/build/px4_fmu-v6x_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/temp_install/microcdr-2.0.0/include/ucdr/microcdr.h
+/home/factslabegmc/PX4-Autopilot/build/px4_fmu-v6x_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/temp_install/microcdr-2.0.0/include/ucdr/visibility.h
+/home/factslabegmc/PX4-Autopilot/build/px4_fmu-v6x_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/temp_install/microcdr-2.0.0/include/ucdr/config.h
+/home/factslabegmc/PX4-Autopilot/build/px4_fmu-v6x_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/temp_install/microcdr-2.0.0/share/microcdr/cmake/microcdrTargets.cmake
+/home/factslabegmc/PX4-Autopilot/build/px4_fmu-v6x_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/temp_install/microcdr-2.0.0/share/microcdr/cmake/microcdrTargets-minsizerel.cmake
+/home/factslabegmc/PX4-Autopilot/build/px4_fmu-v6x_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/temp_install/microcdr-2.0.0/share/microcdr/cmake/microcdrConfig.cmake
+/home/factslabegmc/PX4-Autopilot/build/px4_fmu-v6x_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/temp_install/microcdr-2.0.0/share/microcdr/cmake/microcdrConfigVersion.cmake
